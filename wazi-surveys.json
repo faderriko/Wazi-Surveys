@@ -1,16 +1,16 @@
 {
-    "survey-tag": "Surveys for you today",
+    "surveyTag": "Surveys for you today",
     "surveys": [
         {
-            "survey-id": "cvdfr45",
-            "survey-category": "Finance",
-            "survey-paid": false,
-            "survey-amount": 45,
-            "survey-questions": [
+            "surveyId": "cvdfr45",
+            "surveyCategory": "Finance",
+            "surveyPaid": false,
+            "surveyAmount": 45,
+            "surveyQuestions": [
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "typing",
-                    "survey-anwers": [
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": [
                         "10",
                         "11",
                         "15",
@@ -18,9 +18,9 @@
                     ]
                 },
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "typing",
-                    "survey-anwers": [
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": [
                         "10",
                         "11",
                         "15",
@@ -28,9 +28,9 @@
                     ]
                 },
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "typing",
-                    "survey-anwers": [
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": [
                         "10",
                         "11",
                         "15",
@@ -38,9 +38,9 @@
                     ]
                 },
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "selecting",
-                    "survey-anwers": [
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": [
                         "10",
                         "11",
                         "15",
@@ -48,9 +48,9 @@
                     ]
                 },
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "selecting",
-                    "survey-anwers": [
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": [
                         "10",
                         "11",
                         "15",
@@ -60,36 +60,30 @@
             ]
         },
         {
-            "survey-id": "cvdfr46",
-            "survey-category": "Finance",
-            "survey-paid": true,
-            "survey-amount": 45,
-            "survey-questions": [
+            "surveyId": "cvdfr45",
+            "surveyCategory": "Finance",
+            "surveyPaid": false,
+            "surveyAmount": 45,
+            "surveyQuestions": [
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "typing",
-                    "survey-anwers": [
-                        
-                    ]
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": []
                 },
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "typing",
-                    "survey-anwers": [
-                        
-                    ]
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": []
                 },
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "typing",
-                    "survey-anwers": [
-                        
-                    ]
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": []
                 },
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "selecting",
-                    "survey-anwers": [
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": [
                         "10",
                         "11",
                         "15",
@@ -97,9 +91,9 @@
                     ]
                 },
                 {
-                    "survey-question": "How old are you",
-                    "survey-type": "selecting",
-                    "survey-anwers": [
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnwers": [
                         "10",
                         "11",
                         "15",
