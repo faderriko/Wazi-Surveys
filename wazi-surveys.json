@@ -10,7 +10,7 @@
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": [
+                    "surveyAnswers": [
                         "10",
                         "11",
                         "15",
@@ -20,7 +20,7 @@
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": [
+                    "surveyAnswers": [
                         "10",
                         "11",
                         "15",
@@ -30,7 +30,7 @@
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": [
+                    "surveyAnswers": [
                         "10",
                         "11",
                         "15",
@@ -40,7 +40,7 @@
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": [
+                    "surveyAnswers": [
                         "10",
                         "11",
                         "15",
@@ -50,7 +50,7 @@
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": [
+                    "surveyAnswers": [
                         "10",
                         "11",
                         "15",
@@ -68,22 +68,22 @@
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": []
+                    "surveyAnswers": []
                 },
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": []
+                    "surveyAnswers": []
                 },
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": []
+                    "surveyAnswers": []
                 },
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": [
+                    "surveyAnswers": [
                         "10",
                         "11",
                         "15",
@@ -93,7 +93,7 @@
                 {
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
-                    "surveyAnwers": [
+                    "surveyAnswers": [
                         "10",
                         "11",
                         "15",
