@@ -60,8 +60,8 @@
             ]
         },
         {
-            "surveyId": "cvdfr45",
-            "surveyCategory": "Finance",
+            "surveyId": "cvdfr45we5",
+            "surveyCategory": "Fitness",
             "surveyPaid": false,
             "surveyAmount": 45,
             "surveyQuestions": [
@@ -79,6 +79,412 @@
                     "surveyQuestion": "How old are you",
                     "surveyType": "typing",
                     "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "cvdfr453y",
+            "surveyCategory": "Shopping",
+            "surveyPaid": true,
+            "surveyAmount": 145,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "cvdfr45hh",
+            "surveyCategory": "Purchase Behaviour",
+            "surveyPaid": true,
+            "surveyAmount": 285,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "cvdfr45h",
+            "surveyCategory": "School",
+            "surveyPaid": false,
+            "surveyAmount": 145,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "cvdfr45",
+            "surveyCategory": "Finance",
+            "surveyPaid": false,
+            "surveyAmount": 345,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "cvdfr45",
+            "surveyCategory": "Finance",
+            "surveyPaid": false,
+            "surveyAmount": 45,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "cvdfr45",
+            "surveyCategory": "Finance",
+            "surveyPaid": false,
+            "surveyAmount": 45,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "cvdfr45",
+            "surveyCategory": "Finance",
+            "surveyPaid": false,
+            "surveyAmount": 45,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": "typing",
+                    "surveyAnswers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
                 },
                 {
                     "surveyQuestion": "How old are you",
