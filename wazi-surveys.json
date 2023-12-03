@@ -1,0 +1,112 @@
+{
+    "survey-tag": "Surveys for you today",
+    "surveys": [
+        {
+            "survey-id": "cvdfr45",
+            "survey-category": "Finance",
+            "survey-paid": false,
+            "survey-amount": 45,
+            "survey-questions": [
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "typing",
+                    "survey-anwers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "typing",
+                    "survey-anwers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "typing",
+                    "survey-anwers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "selecting",
+                    "survey-anwers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "selecting",
+                    "survey-anwers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "survey-id": "cvdfr46",
+            "survey-category": "Finance",
+            "survey-paid": true,
+            "survey-amount": 45,
+            "survey-questions": [
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "typing",
+                    "survey-anwers": [
+                        
+                    ]
+                },
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "typing",
+                    "survey-anwers": [
+                        
+                    ]
+                },
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "typing",
+                    "survey-anwers": [
+                        
+                    ]
+                },
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "selecting",
+                    "survey-anwers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                },
+                {
+                    "survey-question": "How old are you",
+                    "survey-type": "selecting",
+                    "survey-anwers": [
+                        "10",
+                        "11",
+                        "15",
+                        "20"
+                    ]
+                }
+            ]
+        }
+    ]
+}
