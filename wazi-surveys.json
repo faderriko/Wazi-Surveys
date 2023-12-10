@@ -53,9 +53,7 @@
                 {
                     "surveyQuestion": "Once you collect enough earnings, you can submit withdrawal for us to process and pay you",
                     "surveyType": 2,
-                    "surveyAnswers": [
-                    
-                    ]
+                    "surveyAnswers": []
                 },
                 {
                     "surveyQuestion": "Have friends? We will pay you Ksh 30 for every survey you friend completes",
@@ -65,7 +63,6 @@
                         "I understand"
                     ]
                 }
-            
             ]
         },
         {
@@ -727,66 +724,79 @@
             ]
         },
         {
-            "surveyId": "9ULTGSYN37",
-            "surveyCategory": "Hotel Industry",
-            "surveyPaid": false,
+            "surveyId": "8ULTHSYN47",
+            "surveyCategory": "Healthcare access",
+            "surveyPaid": true,
             "surveyAmount": 48,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How old are you",
-                    "surveyType": "typing",
+                    "surveyQuestion": "What is your ethnicity?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you have health insurance?",
+                    "surveyType": 1,
                     "surveyAnswers": [
-                        "10",
-                        "11",
-                        "15",
-                        "20"
+                        "Yes",
+                        "No"
                     ]
                 },
                 {
-                    "surveyQuestion": "How old are you",
-                    "surveyType": "typing",
+                    "surveyQuestion": "Which of the following healthcare services have you used in the past year? (Select all that apply)",
+                    "surveyType": 3,
                     "surveyAnswers": [
-                        "10",
-                        "11",
-                        "15",
-                        "20"
+                        "Primary care",
+                        "Specialist care",
+                        "Emergency care",
+                        "Hospitalization",
+                        "Mental health services",
+                        "Dental care",
+                        "Vision care"
                     ]
                 },
                 {
-                    "surveyQuestion": "How old are you",
-                    "surveyType": "typing",
+                    "surveyQuestion": "What is the main reason you seek healthcare services?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How often do you visit a healthcare provider?",
+                    "surveyType": 1,
                     "surveyAnswers": [
-                        "10",
-                        "11",
-                        "15",
-                        "20"
+                        "Less than once a year",
+                        "Once a year",
+                        "2-3 times a year",
+                        "4-6 times a year",
+                        "More than 6 times a year"
                     ]
                 },
                 {
-                    "surveyQuestion": "How old are you",
-                    "surveyType": "typing",
+                    "surveyQuestion": "What barriers have you experienced in accessing healthcare? (Select all that apply)",
+                    "surveyType": 3,
                     "surveyAnswers": [
-                        "10",
-                        "11",
-                        "15",
-                        "20"
+                        "Cost",
+                        "Lack of insurance",
+                        "Long wait times",
+                        "Limited availability of providers",
+                        "Language barriers",
+                        "Transportation issues",
+                        "Lack of information",
+                        "Discrimination"
                     ]
                 },
                 {
-                    "surveyQuestion": "How old are you",
-                    "surveyType": "typing",
+                    "surveyQuestion": "What improvements would you like to see in healthcare access?",
+                    "surveyType": 2,
                     "surveyAnswers": [
-                        "10",
-                        "11",
-                        "15",
-                        "20"
+                        
                     ]
                 }
             ]
         },
         {
             "surveyId": "cvdfr45",
-            "surveyCategory": "Finance",
+            "surveyCategory": "Hotel Industry",
             "surveyPaid": true,
             "surveyAmount": 47,
             "surveyQuestions": [
@@ -860,9 +870,7 @@
                 {
                     "surveyQuestion": "What is your preferred type of accommodation when traveling?",
                     "surveyType": 2,
-                    "surveyAnswers": [
-                        
-                    ]
+                    "surveyAnswers": []
                 }
             ]
         }
