@@ -423,7 +423,7 @@
             "surveyId": "R7VXJYT0HN",
             "surveyCategory": "Access to clean water",
             "surveyPaid": true,
-            "surveyAmount": 46,
+            "surveyAmount": 58,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "What sources of water do you have access to?",
@@ -495,7 +495,7 @@
             "surveyId": "VMLSA9BQ84",
             "surveyCategory": "Women Rights",
             "surveyPaid": true,
-            "surveyAmount": 43,
+            "surveyAmount": 53,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "Which of the following women's rights issues are you most passionate about?",
@@ -556,7 +556,7 @@
             "surveyId": "4WUM6Z72QP",
             "surveyCategory": "Political Stability",
             "surveyPaid": true,
-            "surveyAmount": 48,
+            "surveyAmount": 58,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "Do you believe political stability is important for a country's development?",
@@ -727,7 +727,7 @@
             "surveyId": "8ULTHSYN47",
             "surveyCategory": "Healthcare access",
             "surveyPaid": true,
-            "surveyAmount": 48,
+            "surveyAmount": 56,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "What is your ethnicity?",
@@ -798,7 +798,7 @@
             "surveyId": "cvdfr45",
             "surveyCategory": "Hotel Industry",
             "surveyPaid": true,
-            "surveyAmount": 47,
+            "surveyAmount": 57,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How often do you stay in hotels?",
