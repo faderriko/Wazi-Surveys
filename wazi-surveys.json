@@ -978,17 +978,13 @@
           "surveyType": 1,
           "surveyAnswers": [
             "Toyota",
-            "Ford",
             "Honda",
-            "Chevrolet",
             "BMW",
             "Mercedes-Benz",
             "Audi",
-            "Volkswagen",
-            "Tesla",
+            "VW",
             "Subaru",
-            "Nissan",
-            "Hyundai"
+            "Nissan"
           ]
         },
         {
@@ -1378,17 +1374,12 @@
           "surveyQuestion": "Which crops do you cultivate? (Select all that apply)",
           "surveyType": 3,
           "surveyAnswers": [
-            "Maize",
-            "Wheat",
-            "Rice",
-            "Soybeans",
+            "Cereals",
             "Potatoes",
-            "Tomatoes",
             "Cotton",
             "Tea",
             "Coffee",
-            "Cabbage",
-            "Sukuma Wiki"
+            "Vegetables"
           ]
         },
         {
