@@ -298,9 +298,7 @@
             "Indian",
             "Japanese",
             "Thai",
-            "American",
-            "Mediterranean",
-            "Other"
+            "American"
           ]
         },
         {
@@ -353,9 +351,7 @@
             "Olive oil",
             "Butter",
             "Herbs",
-            "Spices",
-            "Lemon",
-            "Tomato"
+            "Spices"
           ]
         },
         {
@@ -403,8 +399,7 @@
             "Obsessive-compulsive disorder",
             "Post-traumatic stress disorder",
             "Eating disorder",
-            "Substance abuse disorder",
-            "None of the above"
+            "Substance abuse disorder"
           ]
         },
         {
@@ -995,11 +990,9 @@
             "SUV",
             "Hatchback",
             "Convertible",
-            "Coupe",
             "Wagon",
             "Minivan",
-            "Pickup Truck",
-            "Sports Car"
+            "Pickup Truck"
           ]
         },
         {
@@ -1023,7 +1016,6 @@
             "Technology",
             "Reliability",
             "Price",
-            "Style",
             "Off-Road Capability",
             "Cargo Space"
           ]
